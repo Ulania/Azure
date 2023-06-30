@@ -21,12 +21,12 @@ After executing the command:
 information was returned indicating that the Kubernetes controller is running at the specified URL and that other components like CoreDNS and Metrics-server are also running.
 
 3. Created a namespace - "test_namespace".
-![Screenshot 3]
+[3](https://github.com/Ulania/Azure/assets/96245511/8cde50e8-12c0-4e2d-9423-ee55011f1073)
 
 A namespace is an isolated area within the cluster where applications can be run.
 
 4. Switched to the newly created namespace as the default.
-![Screenshot 4]
+![4](https://github.com/Ulania/Azure/assets/96245511/12454d00-1f0a-4765-9312-977c26bd7c8d)
 
 Now all subsequent operations performed by kubectl will take place within the "test-namespace" namespace.
 
