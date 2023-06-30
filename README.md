@@ -38,7 +38,7 @@ A secret is an encrypted credential used for pulling container images from the D
 6. Added a pod (using a manifest) using an application from the Docker Hub.
 ![6](https://github.com/Ulania/Azure/assets/96245511/d8804a76-190d-4257-8d00-f425e48a2356)
 
-![7](https://github.com/Ulania/Azure/assets/96245511/6a0b081f-b184-447c-97d6-b60700676d10)
+    ![7](https://github.com/Ulania/Azure/assets/96245511/6a0b081f-b184-447c-97d6-b60700676d10)
 
 7. Checked logs to ensure everything is working correctly.
 ![8](https://github.com/Ulania/Azure/assets/96245511/537687ec-f7d6-4dc4-95c1-519daa20492b)
@@ -46,9 +46,7 @@ A secret is an encrypted credential used for pulling container images from the D
 8. Executed the describe command to confirm that everything is fine with the pod.
 ![9](https://github.com/Ulania/Azure/assets/96245511/05d1f1f7-1b25-4e54-8cc0-f7c7883340b7)
 
-...
-
-![10](https://github.com/Ulania/Azure/assets/96245511/7dc15806-c00f-4f2c-9bec-f3e6a63aac3f)
+    ![10](https://github.com/Ulania/Azure/assets/96245511/7dc15806-c00f-4f2c-9bec-f3e6a63aac3f)
 
 9. Performed port forwarding between the Kubernetes cluster and the local network.
 ![11](https://github.com/Ulania/Azure/assets/96245511/c6b99780-bdc5-4708-a0e2-7e718ed61d38)
@@ -73,6 +71,6 @@ Opened a web browser and entered the address http://localhost:8080 to see the pa
 14. Removed all components on Azure after completing the task.
 ![13](https://github.com/Ulania/Azure/assets/96245511/e05108a8-efa5-4d28-ae05-059c59ba054f)
 
-![14](https://github.com/Ulania/Azure/assets/96245511/44588358-54bb-493e-9d0c-185cc1fa0c97)
+    ![14](https://github.com/Ulania/Azure/assets/96245511/44588358-54bb-493e-9d0c-185cc1fa0c97)
 
 
